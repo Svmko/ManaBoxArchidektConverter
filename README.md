@@ -13,3 +13,4 @@ After converting, you may copy the contents of the output file and paste it into
 ```bash
 python ManaBoxArchidektConverter.py ManaBox.csv Archidekt.txt
 ```
+Make sure this script is in the same directory as your ManaBox.csv file. Otherwise, you will need to provide the full path to the file.
