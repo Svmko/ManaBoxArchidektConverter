@@ -4,15 +4,13 @@
 ## Usage
 
 ```bash
-python3 ManaBoxArchidektConverter.py <input_file> <output_file>
+python ManaBoxArchidektConverter.py <input_file> <output_file>
 ```
 
 ## Example
 
 ```bash
-python3 ManaBoxArchidektConverter.py ManaBox.csv Archidekt.txt
+python ManaBoxArchidektConverter.py ManaBox.csv Archidekt.txt
 ```
-
-## Notes
 
 After converting, you may copy the contents of the output file and paste it into the "Text import" section of Deck sandbox in Archidekt.
